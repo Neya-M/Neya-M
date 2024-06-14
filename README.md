@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neya-M
-- 👀 I’m interested in math, science, and rubiks cubes.
+- 👀 I’m interested in math, science, and app development.
 - 🌱 I’m currently learning stuff.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on beginner Python or Swift projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cats
